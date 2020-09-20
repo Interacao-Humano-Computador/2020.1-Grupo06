@@ -6,16 +6,47 @@ Nesse repositório será adicionada toda a documentação exigida pela disciplin
 
 ## Equipe
 
-| Nome             |   GitHub     | Matrícula | Email |
-|------------------|--------------|------------|------------|
-| Aline Helena Lermen             | AlineLermen       | 18/0011961 | aline.helena.lermen@gmail.com |
-| Gabrielle Ribeiro Gomes         | Gabrielle-Ribeiro | 17/0011020 | gabrielleribeiro2010@gmail.com |
-| Giovanna Borges Bottino         | giovannabbottino  | 17/0011267 | |
-| Gustavo Afonso Pires Severo     | GustavoAPS        | 17/0034992 | gugustavo137@gmail.com |
-| Luiz Gustavo Dias Paes Pinheiro | lgpinheiro94      | 14/0169784 |
-
-
-<p align="center"><b>Grupo 6</b></p>
-<p align="center">Interação Humano Computador<br /><br />
-<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
-</p>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm container-img">
+        <img src="./img/equipe/Aline.jpeg" alt="..." class="img-thumbnail image">
+            <div class="middle">
+              <div class="text">
+                <a href="https://github.com/AlineLermen">Aline Lermen</a>
+              </div>
+            </div>
+    </div>
+    <div class="col-sm container-img">
+      <img src="./img/equipe/Gabrielle.jpeg" alt="..." class="img-thumbnail image">
+          <div class="middle">
+            <div class="text">
+            <a href="https://github.com/Gabrielle-Ribeiro">Gabrielle Ribeiro</a>
+            </div>
+          </div>
+    </div>
+    <div class="col-sm container-img">
+    <img src="./img/equipe/Giovanna.jpeg" alt="..." class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+          <a href="https://github.com/giovannabbottino">Giovanna Bottino</a>
+          </div>
+        </div>
+    </div>
+    <div class="col-sm container-img">
+    <img src="./img/equipe/Gustavo.jpeg" alt="..." class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+          <a href="https://github.com/GustavoAPS">Gustavo Afonso</a>
+          </div>
+        </div>
+    </div>
+    <div class="col-sm container-img">
+    <img src="./img/equipe/Luiz.jpeg" alt="..." class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+          <a href="https://github.com/lgpinheiro94">Luiz Gustavo</a>
+          </div>
+        </div>
+    </div>
+  </div>
