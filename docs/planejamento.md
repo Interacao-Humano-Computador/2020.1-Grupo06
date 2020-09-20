@@ -39,6 +39,14 @@ Serão utilizadas as seguintes ferramentas para comunicação e organização do
   </tr>
 </table>
 
+## Sites avaliados
+- Secretaria de Transporte e Mobilidade (SEMOB)
+- Prefeitura Municipal de Imbé - RS
+- Prefeitura de Dourados - MS
+- SIGAA
+- **Prefeitura Municipal de Arco-Íris - SP** 
+
+
 ## Processo de Design
 
 Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organização específica das atividades de IHC orienta as soluções com ênfase em construir uma boa interação com o usuário, o que é exatamente o que se busca para um site de prefeitura, o esquema de 3 etapas deste ciclo de vida está mostrado na figura abaixo.
@@ -57,3 +65,4 @@ Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organizaç
 |20/09/2020|0.2|Adicionando o cronograma do projeto|Giovanna Bottino|
 |20/09/2020|0.3|Adicionando as ferramentas do projeto|Gabrielle Ribeiro Gomes|
 |20/09/2020|0.4|Adicionando a apresentação do planejamento|Luiz Gustavo Dias Paes Pinheiro|
+|20/09/2020|0.5|Adicionando a lista de sites avaliados|Aline Helena Lermen|
