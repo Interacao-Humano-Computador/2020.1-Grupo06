@@ -45,6 +45,9 @@ Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organizaç
 
 ![Ciclo de Mayhew](/img/Mayhew.png)
 
+## Apresentação do planejamento
+
+[![](http://img.youtube.com/vi/1zWxaRFrJEc/0.jpg)](http://www.youtube.com/watch?v=1zWxaRFrJEc "Apresentação do planejamento ")
 
 ## Versionamento
 
@@ -53,3 +56,4 @@ Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organizaç
 |19/09/2020|0.1|Adicionando processo de design|Gustavo Afonso P. Severo|
 |20/09/2020|0.2|Adicionando o cronograma do projeto|Giovanna Bottino|
 |20/09/2020|0.3|Adicionando as ferramentas do projeto|Gabrielle Ribeiro Gomes|
+|20/09/2020|0.4|Adicionando a apresentação do planejamento|Luiz Gustavo Dias Paes Pinheiro|
