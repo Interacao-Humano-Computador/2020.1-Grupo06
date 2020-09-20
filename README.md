@@ -10,7 +10,7 @@ Nesse repositório será adicionada toda a documentação exigida pela disciplin
 |------------------|--------------|------------|------------|
 | Aline Helena Lermen             | AlineLermen       | 18/0011961 | aline.helena.lermen@gmail.com |
 | Gabrielle Ribeiro Gomes         | Gabrielle-Ribeiro | 17/0011020 | gabrielleribeiro2010@gmail.com |
-| Giovanna Borges Bottino         | giovannabbottino  | 17/0011267 | |
+| Giovanna Borges Bottino         | giovannabbottino  | 17/0011267 | giovannabbottino@gmail.com |
 | Gustavo Afonso Pires Severo     | GustavoAPS        | 17/0034992 | gugustavo137@gmail.com |
 | Luiz Gustavo Dias Paes Pinheiro | lgpinheiro94      | 14/0169784 |
 
