@@ -35,7 +35,7 @@ Serão utilizadas as seguintes ferramentas para comunicação e organização do
   </tr>
   <tr>
     <td align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cauE2BSf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ogssyknk854ny56ei6e.jpeg" width="118" height="50"</td>
-    <td><i>GitHub Pages</i> - Usado para produzir os artefatos do projeto e realizar o versionamento do mesmo.</td>
+    <td><i>GitHub Pages</i> - Usado para organização e melhor visualização dos artefatos e versionamento do projeto.</td>
   </tr>
 </table>
 
