@@ -3,5 +3,5 @@
   - [Home](/)
   - [Políticas de Repositório](politicas_do_repositorio.md)
   - [Planejamento](planejamento.md)
-  - [Reuniões](/reunioes/indice_reunioes.md)
   - [Perfil de usuário](perfil_de_usuario.md)
+  - [Reuniões](/reunioes/indice_reunioes.md)
