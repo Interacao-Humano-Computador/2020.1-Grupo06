@@ -4,9 +4,52 @@ A seguir se encontram as informações a cerca do planejamento do projeto.
 
 ## Cronograma 
 
-O cronograma pode ou não sofrer mudanças ao longo do projeto. Podemos visualizar o cronograma do projeto a seguir: 
+O cronograma pode ou não sofrer mudanças ao longo do projeto. Ele é divido em cinco pontos de controle, um planejamento e uma finalização. Podemos visualizar o cronograma do projeto a seguir: 
 
 ![Cronograma](/img/cronograma.png)
+
+
+Para melhor visualização dividimos a imagem de partes. 
+
+### Planejamento
+
+![Cronograma](/img/cronograma_0.png)
+
+
+### Ponto de controle 1
+
+
+![Cronograma](/img/cronograma_1.png)
+
+
+### Ponto de controle 2
+
+
+![Cronograma](/img/cronograma_2.png)
+
+
+### Ponto de controle 3
+
+
+![Cronograma](/img/cronograma_3.png)
+
+
+### Ponto de controle 4
+
+
+![Cronograma](/img/cronograma_4.png)
+
+
+### Ponto de controle 5
+
+
+![Cronograma](/img/cronograma_5.png)
+
+
+### Fechamento do projeto
+
+
+![Cronograma](/img/cronograma_6.png)
 
 
 ## Ferramentas
@@ -66,3 +109,4 @@ Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organizaç
 |20/09/2020|0.3|Adicionando as ferramentas do projeto|Gabrielle Ribeiro Gomes|
 |20/09/2020|0.4|Adicionando a apresentação do planejamento|Luiz Gustavo Dias Paes Pinheiro|
 |20/09/2020|0.5|Adicionando a lista de sites avaliados|Aline Helena Lermen|
+|02/10/2020|0.6|Atualiza o cronograma do projeto|Giovanna Bottino|
