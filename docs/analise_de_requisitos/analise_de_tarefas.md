@@ -8,7 +8,7 @@ A seguir podemos ver três atividades selecionadas para analisar. Essa são: Vis
 ## Objetivos 
 ### Prestação de contas públicas
 #### Diagrama
-![Diagrama de contas publicas](/img/tarefas/contas_publicas_diagrama.png)
+![Diagrama de contas publicas](../img/tarefas/contas_publicas_diagrama.png)
 
 #### Especificação
 
@@ -23,7 +23,7 @@ A seguir podemos ver três atividades selecionadas para analisar. Essa são: Vis
 
 ### Notícias recentes sobre a cidade
 #### Diagrama
-![Diagrama de noticias recentes](/img/tarefas/noticias_recentes_diagrama.png)
+![Diagrama de noticias recentes](../img/tarefas/noticias_recentes_diagrama.png)
 
 #### Especificação
 
@@ -38,7 +38,7 @@ A seguir podemos ver três atividades selecionadas para analisar. Essa são: Vis
 
 ### Informações sobre o Corona-Virus na cidade
 #### Diagrama
-![Diagrama de noticias recentes](/img/tarefas/covid_diagrama.png)
+![Diagrama de noticias recentes](../img/tarefas/covid_diagrama.png)
 
 #### Especificação
 

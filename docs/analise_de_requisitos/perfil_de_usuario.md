@@ -11,21 +11,21 @@ Para coletar dados sobre usuários, a equipe elaborou um questionário no *Googl
 
 
 ### Resultados
-![alt text](img/questionario/questionario_01.png) 
-![alt text](img/questionario/questionario_02.png)
-![alt text](img/questionario/questionario_03.png)
-![alt text](img/questionario/questionario_04.png)
-![alt text](img/questionario/questionario_05.png)
-![alt text](img/questionario/questionario_06.png)
-![alt text](img/questionario/questionario_07.png)
-![alt text](img/questionario/questionario_08.png)
-![alt text](img/questionario/questionario_09.png)
-![alt text](img/questionario/questionario_10.png)
-![alt text](img/questionario/questionario_11.png)
-![alt text](img/questionario/questionario_12.png)
-![alt text](img/questionario/questionario_13.png)
-![alt text](img/questionario/questionario_14.png)
-![alt text](img/questionario/questionario_15.png)
+![alt text](../img/questionario/questionario_01.png) 
+![alt text](../img/questionario/questionario_02.png)
+![alt text](../img/questionario/questionario_03.png)
+![alt text](../img/questionario/questionario_04.png)
+![alt text](../img/questionario/questionario_05.png)
+![alt text](../img/questionario/questionario_06.png)
+![alt text](../img/questionario/questionario_07.png)
+![alt text](../img/questionario/questionario_08.png)
+![alt text](../img/questionario/questionario_09.png)
+![alt text](../img/questionario/questionario_10.png)
+![alt text](../img/questionario/questionario_11.png)
+![alt text](../img/questionario/questionario_12.png)
+![alt text](../img/questionario/questionario_13.png)
+![alt text](../img/questionario/questionario_14.png)
+![alt text](../img/questionario/questionario_15.png)
 
 
 ## Análise
