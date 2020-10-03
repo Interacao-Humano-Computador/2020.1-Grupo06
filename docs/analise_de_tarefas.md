@@ -1,6 +1,10 @@
 # Análise de Tarefas
 ## Introdução
 
+O processo de analisar tarefas em um site trata-se de uma analise de como uma tarefa desejavel é realizada pelo usuário. Isso inclui descrição detalhada tanto físicas como mentais, duração, frequência, complexidade, condições ambientais, vestimenta e equipamentos necessários.
+
+A seguir podemos ver três atividades selecionadas para analisar. Essa são: Visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Corona-Virus na cidade. Atividades encontradas como importantes no perfil de usuario.
+
 ## Objetivos 
 ### Prestação de contas públicas
 #### Diagrama
@@ -49,3 +53,4 @@
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |03/10/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
+|03/10/2020|0.2|Adiciona introdução |Giovanna Borges Bottino|
