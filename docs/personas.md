@@ -1,6 +1,6 @@
 # Personas
 
-A seguir se encontram as personas desenvolvidas com base na análise do [perfil de usuário](perfil_de_usuario.md) obtido.
+As personas são personagens fictícios, criados com o objetivo de descrever um usuário típico do sistema, sendo desenvolvidos por meio da análise de um grupo de usuários reais. A seguir encontram-se seis personas criadas tendo como base o[perfil de usuário](perfil_de_usuario.md). Essas personas foram criadas para descrever um usuário típico, o que ajuda a dar foco no processo de design para esse tipo específico de usuário.
 
 ## Persona 1 - José Leitão Lemos
 
@@ -44,5 +44,5 @@ A seguir se encontram as personas desenvolvidas com base na análise do [perfil 
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |02/10/2020|0.1|Adicionando primeiras personas|Gabrielle Ribeiro Gomes|
-|03/10/2020|0.2|Adicionando mais personas|Gustavo Afonso Pires Severo|
+|03/10/2020|1.0|Adicionando mais personas|Gustavo Afonso Pires Severo|
 
