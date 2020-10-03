@@ -3,7 +3,7 @@
 
 O processo de analisar tarefas em um site trata-se de uma analise de como uma tarefa desejavel é realizada pelo usuário. Isso inclui descrição detalhada tanto físicas como mentais, duração, frequência, complexidade, condições ambientais, vestimenta e equipamentos necessários.
 
-A seguir podemos ver três atividades selecionadas para analisar. Essa são: Visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Corona-Virus na cidade. Atividades encontradas como importantes no perfil de usuario.
+A seguir podemos ver três atividades selecionadas para analisar. Essa são: Visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Corona-Virus na cidade. Atividades encontradas como importantes no [perfil de usuário](perfil_de_usuario.md).
 
 ## Objetivos 
 ### Prestação de contas públicas
@@ -50,7 +50,14 @@ A seguir podemos ver três atividades selecionadas para analisar. Essa são: Vis
 | 3. Pesquisar 'COVID' | problema: Pesquisar COVID encontra resultados de 'Legislação<br>solução: Melhorar a pesquisa do site|
 
 
+## Apresentação 
+
+[![](https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_300x300.jpg)](https://www.youtube.com/watch?v=0KPLgWLYMrs&feature=youtu.be&ab_channel=GiovannaBottino "Apresentação")
+
+## Versionamento
+
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |03/10/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
 |03/10/2020|0.2|Adiciona introdução |Giovanna Borges Bottino|
+|03/10/2020|1.0|Adiciona apresentação |Giovanna Borges Bottino|
