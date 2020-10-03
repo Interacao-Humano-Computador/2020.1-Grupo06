@@ -6,50 +6,50 @@ A seguir se encontram as informações a cerca do planejamento do projeto.
 
 O cronograma pode ou não sofrer mudanças ao longo do projeto. Ele é divido em cinco pontos de controle, um planejamento e uma finalização. Podemos visualizar o cronograma do projeto a seguir: 
 
-![Cronograma](/img/cronograma.png)
+![Cronograma](/img/cronograma/cronograma.png)
 
 
 Para melhor visualização dividimos a imagem de partes. 
 
 ### Planejamento
 
-![Cronograma](/img/cronograma_0.png)
+![Cronograma](/img/cronograma/cronograma_0.png)
 
 
 ### Ponto de controle 1
 
 
-![Cronograma](/img/cronograma_1.png)
+![Cronograma](/img/cronograma/cronograma_1.png)
 
 
 ### Ponto de controle 2
 
 
-![Cronograma](/img/cronograma_2.png)
+![Cronograma](/img/cronograma/cronograma_2.png)
 
 
 ### Ponto de controle 3
 
 
-![Cronograma](/img/cronograma_3.png)
+![Cronograma](/img/cronograma/cronograma_3.png)
 
 
 ### Ponto de controle 4
 
 
-![Cronograma](/img/cronograma_4.png)
+![Cronograma](/img/cronograma/cronograma_4.png)
 
 
 ### Ponto de controle 5
 
 
-![Cronograma](/img/cronograma_5.png)
+![Cronograma](/img/cronograma/cronograma_5.png)
 
 
 ### Fechamento do projeto
 
 
-![Cronograma](/img/cronograma_6.png)
+![Cronograma](/img/cronograma/cronograma_6.png)
 
 
 ## Ferramentas
