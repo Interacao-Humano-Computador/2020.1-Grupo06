@@ -113,5 +113,5 @@ Assim, é possível seguir esse processo de design, bem como o plano de ensino d
 |20/09/2020|0.4|Adicionando a apresentação do planejamento|Luiz Gustavo Dias Paes Pinheiro|
 |20/09/2020|0.5|Adicionando a lista de sites avaliados|Aline Helena Lermen|
 |02/10/2020|0.6|Atualiza o cronograma do projeto|Giovanna Bottino|
-|05/10/2020|0.7|Atualiza informação do processo de design|Aline Helena Lermen|
+|05/10/2020|1.0|Atualiza informação do processo de design|Aline Helena Lermen|
 
