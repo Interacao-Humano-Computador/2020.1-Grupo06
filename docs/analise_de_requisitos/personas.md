@@ -46,4 +46,3 @@ As **personas** são personagens fictícios, criados com o objetivo de descrever
 |02/10/2020|0.1|Adicionando primeiras personas|Gabrielle Ribeiro Gomes|
 |03/10/2020|1.0|Adicionando mais personas|Gustavo Afonso Pires Severo|
 |03/04/2020|1.1|Corrige bug em imagens|Gabrielle Ribeiro Gomes|
-
