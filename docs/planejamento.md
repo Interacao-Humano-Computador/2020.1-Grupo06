@@ -92,7 +92,10 @@ Serão utilizadas as seguintes ferramentas para comunicação e organização do
 
 ## Processo de Design
 
-Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organização específica das atividades de IHC orienta as soluções com ênfase em construir uma boa interação com o usuário, o que é exatamente o que se busca para um site de prefeitura, o esquema de 3 etapas deste ciclo de vida está mostrado na figura abaixo.
+Pela Engenharia de Usabilidade de Mayhew, há três fases no processo: a análise de requisitos; o design, avaliação e desenvolvimento; e a instalação. Com uma visão holística, esse processo de design trabalha com diferentes atividades propostas na área de IHC.  
+Na fase de análise de requisitos são definidas as metas de usabilidade com base no perfil de usuário, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Na fase de design, avaliação e desenvolvimento propõe-se solução de IHC que atenda às metas de usabilidade. Na fase de instalação, deve-se coletar opiniões dos usuários depois de algum tempo de uso do sistema.  
+O ciclo de vida para a engenharia de usabilidade, apresentado na imagem abaixo, especifica um pouco de maneira "sequencial" o que deve ser feito, como deve-se prosseguir à medida em que se obtém resultados ou não.
+Assim, é possível seguir esse processo de design, bem como o plano de ensino da disciplina de Interação Humano Computador, pois estão de certa forma seguindo um caminho semelhante para que a equipe possa fazer a avaliação do site da Prefeitura Municipal de Arco-Íris.
 
 ![Ciclo de Mayhew](/img/Mayhew.png)
 
@@ -110,3 +113,5 @@ Adotamos o ciclo de vida da Engenharia de Usabilidade de Mayhew, essa organizaç
 |20/09/2020|0.4|Adicionando a apresentação do planejamento|Luiz Gustavo Dias Paes Pinheiro|
 |20/09/2020|0.5|Adicionando a lista de sites avaliados|Aline Helena Lermen|
 |02/10/2020|0.6|Atualiza o cronograma do projeto|Giovanna Bottino|
+|05/10/2020|0.7|Atualiza informação do processo de design|Aline Helena Lermen|
+
