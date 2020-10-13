@@ -1,12 +1,14 @@
 # Princípios Gerais de Projeto
 ## Introdução 
 
-Diretrizes são geralmente recomendações genéricas e descontextualizadas para guiar a equipe na analise. Serve como uma lista de verificação. Apesar de auxiliarem não subistituem um porcesso pelo entendimento do problema, elaboração e avalição de soluções. Sugerem o que utilizar e o que evitar na criação de interface / interação.
+Diretrizes são geralmente recomendações genéricas e descontextualizadas para guiar a equipe na análise. Serve como uma lista de verificação. Apesar de auxiliarem não subistituem um porcesso pelo entendimento do problema, elaboração e avalição de soluções. Sugerem o que utilizar e o que evitar na criação de interface / interação.
 
-A seguir é possivel ver os princípios selecionados pelo grupo para auxiliar nessa processo de analise do site da prefeitura de Arco-íris, que não possue grande parte desses princípios.  O itens que definem os princípios de projeto são:
+A seguir é possivel ver os princípios selecionados pelo grupo para auxiliar nessa processo de análise do site da prefeitura de Arco-íris, que não possue grande parte desses princípios.  Os itens que definem os princípios de projeto são:
 - Correspondência com a expectativa dos usuários;
 - Equilíbrio entre controle e liberdade do usuário;
 - Consistência e padronização;
+- Visibilidade e reconhecimento;
+- Conteúdo relevante e expressão adequada;
 
 ## Correspondência com a expectativa dos usuários
 Este principio fala sobre:
@@ -53,7 +55,7 @@ Este principio fala sobre:
 - os rótulos de menus e botões devem ser claros e livres de ambiguidade;
 - certifique-se de que o texto também seja legível.
 
-AS informações se perdem a fonte dificulta a legibilidade, há muita repetição desnecessaria.
+As informações se perdem e a fonte dificulta a legibilidade, há muita repetição desnecessária.
 
 ## Versionamento
 
@@ -61,3 +63,4 @@ AS informações se perdem a fonte dificulta a legibilidade, há muita repetiç�
 |------|------|------|------|
 |13/10/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
 |13/10/2020|0.2|Abertura do documento |Giovanna Borges Bottino|
+|13/10/2020|0.3|Refatora com acentos |Giovanna Borges Bottino|
