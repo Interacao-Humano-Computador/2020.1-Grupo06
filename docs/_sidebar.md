@@ -9,7 +9,7 @@
       <li><a href="#/analise_de_requisitos/perfil_de_usuario">Perfil de usuário</a></li>
       <li><a href="#/analise_de_requisitos/personas">Personas</a></li>
       <li><a href="#/analise_de_requisitos/analise_de_tarefas">Análise de tarefas</a></li>
-      <li><a href="#/analise_de_requisitos/analise_de_tarefas">Princípios Gerais</a></li>
+      <li><a href="#/analise_de_requisitos/principios">Princípios Gerais</a></li>
       <li><a href="#/analise_de_requisitos/apresentacao">Apresentação</a></li>
     </ul>
     </details>
