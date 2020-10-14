@@ -10,6 +10,7 @@
       <li><a href="#/analise_de_requisitos/personas">Personas</a></li>
       <li><a href="#/analise_de_requisitos/analise_de_tarefas">Análise de tarefas</a></li>
       <li><a href="#/analise_de_requisitos/apresentacao">Apresentação</a></li>
+      <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
     </ul>
     </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
