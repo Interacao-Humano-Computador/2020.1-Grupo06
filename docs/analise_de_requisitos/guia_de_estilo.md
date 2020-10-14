@@ -8,7 +8,7 @@ Este documento apresenta o Guia de Estilo para o site da Prefeitura Municipal de
 
 ### 1.2 Organização e conteúdo do guia de estilo 
 
-O presente Guia está organizado na seguinte maneira: primeiramente é apresentado os Resultados de análise, que trazem uma descrição sobre o ambiente de trabalho dos usuários do site. Depois são apresentados os Elementos de Interface, que mostram a disposição espacial e grid, as janelas, a tipografia, símbolos não tipográficos e cores. Logo após, são exibidos os Elementos de Interação, trazendo estilos de interação, seleção de um estilo e aceleradores. Então, são mostrados os Elementos de Ação, apresentando o preenchimento de campos, seleção e ativação. E por fim, são indicados o Vocabulário e Padrões, que possui a terminologia, os tipos de tela e as sequências de diálogos. 
+O presente Guia está organizado na seguinte maneira: primeiramente é apresentado os Resultados de análise, que trazem uma descrição sobre o ambiente de trabalho dos usuários do site. Depois são apresentados os Elementos de Interface, que mostram a disposição espacial e grid, as janelas, a tipografia, símbolos não tipográficos, cores e figuras. E por fim, são exibidos os Elementos de Interação, trazendo estilos de interação.
 
 ### 1.3 Público-alvo do guia de estilo 
 
@@ -80,6 +80,15 @@ No design do site da Prefeitura Municipal de Arco-íris também é recorrente o 
 
 <img src="../img/guia_de_estilo/brasao.png" width=200 height=auto> 
 
+## 4. Elementos de interação 
+
+### 4.1 Estilos de interação 
+
+Serão utilizados na interação do usuário com a interface os seguintes elementos: 
+
+- **Botões:** serão utilizados em interações de clique. 
+- **Menu Dropdown:** será utilizado na barra de informações. 
+- **Caixa de texto:** será utilizado no mecanismo de busca do site. 
 
 ## Versionamento
 
@@ -88,3 +97,4 @@ No design do site da Prefeitura Municipal de Arco-íris também é recorrente o 
 |14/10/2020|0.1|Adiciona Introdução e Resultados|Gabrielle Ribeiro Gomes|
 |14/10/2020|0.2|Adiciona Elementos de interface|Gustavo Afonso Pires Severo|
 |14/10/2020|0.3|Corrigindo tamanho das imagens e adicionando brasão da cidade |Gustavo Afonso Pires Severo|
+|14/10/2020|1.0|Adicionando elementos de interação|Gabrielle Ribeiro Gomes|
