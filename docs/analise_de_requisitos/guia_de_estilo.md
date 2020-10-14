@@ -30,9 +30,50 @@ Sempre que uma decisão a respeito do design for tomada, o Guia de Estilo també
 
 O projeto é feito com o site da Prefeitura Municipal de Arco-íris, que permite a interação do usuário através de cliques em elementos na tela. Tendo isso em vista, o ambiente de trabalho do usuário é qualquer navegador web que ele utilize, permitindo o acesso ao site. 
 
+## 3. Elementos de interface
+
+### 3.1 Disposição espacial e grid
+
+A seguir é apresentado a disposição espacial que deve ser utilizado na página inicial do site da Prefeitura Municipal de Arco-íris - SP. 
+
+<td><img src="../img/guia_de_estilo/pagina_inicial.png" width=750 height=auto> </td>
+
+### 3.2 Janelas 
+A seguir é apresentado a disposição espacial que deve ser utilizada nas janelas do site da Prefeitura Municipal de Arco-íris - SP, o foco para as janelas é apresentar o conteúdo específico de cada página. 
+
+<td><img src="../img/guia_de_estilo/janelas.png" width=750 height=auto> </td>
+
+### 3.3 Tipografia 
+Foram preferidas fontes com serifa devido a sua maior legibilidade. A escolha para a fonte vai depender da sua aplicação na página, mantendo um limite de duas ou três fontes por página. Não iremos utilizar fontes piscantes ou coloridas em nenhum momento, caso seja necessário a atenção do leitor deve-se usar itálico ou negrito. 
+Helvetica Light 
+Deve ser usada fora de documentos e textos longos, como os botões de navegação entre páginas 
+Arial 
+Deve ser usada junto a fonte Helvetica para elementos de navegação entre páginas e textos curtos. 
+Times New Roman 
+Deve ser usada em documentos ou textos longos  
+
+### 3.4 Símbolos não tipográficos 
+
+No design do site da Prefeitura Municipal de Arco-íris devem ser utilizados os seguintes símbolos não tipográficos: 
+
+Sucesso
+<td><img src="../img/guia_de_estilo/icone_de_sucesso.png" width=750 height=auto> </td>
+
+Erro
+<td><img src="../img/guia_de_estilo/icone_de_erro.png" width=750 height=auto> </td>
+
+Atenção
+<td><img src="../img/guia_de_estilo/icone_de_atencao.png" width=750 height=auto> </td>
+
+### 3.5 Cores 
+
+No design do site da Prefeitura Municipal de Arco-íris deve ser utilizada a seguinte paleta de cores:
+
+<td><img src="../img/guia_de_estilo/cores.png" width=750 height=auto> </td>
 
 ## Versionamento
 
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |14/10/2020|0.1|Adiciona Introdução e Resultados|Gabrielle Ribeiro Gomes|
+|14/10/2020|0.2|Adiciona Elementos de interface|Gustavo Afonso Pires Severo|
