@@ -14,11 +14,12 @@ A capacidade de aprendizagem (*learnability*) refere-se à facilidade de aprende
 ##### Memorability
 A capacidade de memorização (*memorability*) refere-se à facilidade de lembrar como utilizar um sistema depois de já tê-lo aprendido.
 
-## Metas
-- eficácia: o *site* deve fornecer as informações que são procuradas pelos usuários. No entanto, atualmente, muitas das abas do menu e as opções se encontram vazias, não fornecendo algumas informações, podendo deixar o usuário frustrado.
-- eficiência: o *site* possui uma seção de acesso rápido, que contém algumas opções que podem ser bastante úteis. Porém esta seção se encontra em uma disposição não muito apropriada, pois se mistura com as várias informações da página inicial.
-- learnability: não repetir informações desnecessárias, para que não seja confuso para o usuário aprender onde encontrar determinadas informações, por exemplo. Além disso, as várias informações, algumas desnecessárias, apresentadas ao usuário logo na página inicial, pode fazer com que o usuário desista de aprender como utilizar o sistema.
-- memorability: os menus do *site* devem ser fáceis de serem acessados, contendo menos opções, para que seja mais fácil para o usuário memorizar o que já fez anteriormente, em outro acesso.
+## Metas de usabilidade do projeto
+Tendo como base as metas de usabilidade apresentadas acima, pode-se avaliar aspectos do sistema que não atendem a essas metas. Dessa forma, a equipe separou alguns desses aspectos relacionados a experiência de usuário para trabalhar no projeto. Tais aspectos estão classificados a seguir em algumas das metas.
+- **Eficácia**: o *site* deve fornecer as informações que são procuradas pelos usuários. No entanto, atualmente, muitas das abas do menu e as opções se encontram vazias, não fornecendo algumas informações, podendo deixar o usuário frustrado.
+- **Eficiência**: o *site* possui uma seção de acesso rápido, que contém algumas opções que podem ser bastante úteis. Porém esta seção se encontra em uma disposição não muito apropriada, pois se mistura com as várias informações da página inicial.
+- **Learnability**: não repetir informações desnecessárias, para que não seja confuso para o usuário aprender onde encontrar determinadas informações, por exemplo. Além disso, as várias informações, algumas desnecessárias, apresentadas ao usuário logo na página inicial, pode fazer com que o usuário desista de aprender como utilizar o sistema.
+- **Memorability**: os menus do *site* devem ser fáceis de serem acessados, contendo menos opções, para que seja mais fácil para o usuário memorizar o que já fez anteriormente, em outro acesso.
 
 ## Referências
 SHARP, Helen; et al. Design de interação. Bookman, 2005.
@@ -27,3 +28,4 @@ SHARP, Helen; et al. Design de interação. Bookman, 2005.
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |14/10/2020|0.1|Criação do documento e adicionando as metas|Aline Helena Lermen|
+|14/10/2020|0.2|Ajustes nas metas do projeto|Aline Helena Lermen|
