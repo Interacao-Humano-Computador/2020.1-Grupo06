@@ -41,7 +41,7 @@ A seguir é apresentado a disposição espacial que deve ser utilizado na págin
 ### 3.2 Janelas 
 A seguir é apresentado a disposição espacial que deve ser utilizada nas janelas do site da Prefeitura Municipal de Arco-íris - SP, o foco para as janelas é apresentar o conteúdo específico de cada página. 
 
-<img src="../img/guia_de_estilo/janelas.png" width=500 height=auto>
+![alt text](../img/guia_de_estilo/janelas.png)
 
 ### 3.3 Tipografia 
 Foram preferidas fontes com serifa devido a sua maior legibilidade. A escolha para a fonte vai depender da sua aplicação na página, mantendo um limite de duas ou três fontes por página. Não iremos utilizar fontes piscantes ou coloridas em nenhum momento, caso seja necessário a atenção do leitor deve-se usar itálico ou negrito. 
@@ -58,27 +58,27 @@ No design do site da Prefeitura Municipal de Arco-íris devem ser utilizados os 
 
 **Sucesso** : esse simbolo deve ser usado para indicar que uma ação foi concluída com sucesso.
 
-<img src="../img/guia_de_estilo/icone_de_sucesso.png" width=75 height=auto> 
+![alt text](../img/guia_de_estilo/icone_de_sucesso.png)
 
 **Erro** : esse simbolo deve ser usado para indicar uma falha em alguma ação performada no sistema.
 
-<img src="../img/guia_de_estilo/icone_de_erro.png" width=75 height=auto> 
+![alt text](../img/guia_de_estilo/icone_de_erro.png)
 
 **Atenção** : esse simbolo deve ser usado para demonstrar campos obrigatórios e para chamar a atenção do usuário quando necessário.
 
-<img src="../img/guia_de_estilo/icone_de_atencao.png" width=75 height=auto> 
+![alt text](../img/guia_de_estilo/icone_de_atencao.png)
 
 ### 3.5 Cores 
 
 No design do site da Prefeitura Municipal de Arco-íris deve ser utilizada a seguinte paleta de cores:
 
-<img src="../img/guia_de_estilo/cores.png" width=200 height=auto> 
+![alt text](../img/guia_de_estilo/cores.png)
 
 ### 3.6 Figuras 
 
 No design do site da Prefeitura Municipal de Arco-íris também é recorrente o uso do brasão da cidade como elemento visual.
 
-<img src="../img/guia_de_estilo/brasao.png" width=200 height=auto> 
+![alt text](../img/guia_de_estilo/brasao.png)
 
 ## 4. Elementos de interação 
 
