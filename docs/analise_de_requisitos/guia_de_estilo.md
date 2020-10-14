@@ -36,7 +36,7 @@ O projeto é feito com o site da Prefeitura Municipal de Arco-íris, que permite
 
 A seguir é apresentado a disposição espacial que deve ser utilizado na página inicial do site da Prefeitura Municipal de Arco-íris - SP. 
 
-<img src="../img/guia_de_estilo/pagina_inicial.PNG" width=500 height=auto>
+![alt text](../img/guia_de_estilo/pagina_inicial.png)
 
 ### 3.2 Janelas 
 A seguir é apresentado a disposição espacial que deve ser utilizada nas janelas do site da Prefeitura Municipal de Arco-íris - SP, o foco para as janelas é apresentar o conteúdo específico de cada página. 
