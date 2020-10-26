@@ -9,14 +9,13 @@
       <li><a href="#/analise_de_requisitos/perfil_de_usuario">Perfil de usuário</a></li>
       <li><a href="#/analise_de_requisitos/personas">Personas</a></li>
       <li><a href="#/analise_de_requisitos/analise_de_tarefas">Análise de tarefas</a></li>
-      <li><a href="#/analise_de_requisitos/apresentacao">Apresentação Ponto de Controle 1</a></li>
       <li><a href="#/analise_de_requisitos/principios">Princípios Gerais</a></li>
       <li><a href="#/analise_de_requisitos/metas_usabilidade">Metas de usabilidade</a></li>
       <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
-      <li><a href="#/analise_de_requisitos/apresentacao2">Apresentação Ponto de Controle 2</a></li>
+      <li><a href="#/analise_de_requisitos/storyboard">Storyboard</a></li>
     </ul>
     </details>
-      - <details><summary><a style="display: inline;">Apresentações</summary></a>
+  - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
       <li><a href="#/apresentacoes/apresentacao">Apresentação Ponto de Controle 1</a></li>
       <li><a href="#/apresentacoes/apresentacao2">Apresentação Ponto de Controle 2</a></li>
