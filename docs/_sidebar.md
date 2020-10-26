@@ -16,4 +16,10 @@
       <li><a href="#/analise_de_requisitos/apresentacao2">Apresentação Ponto de Controle 2</a></li>
     </ul>
     </details>
+      - <details><summary><a style="display: inline;">Apresentações</summary></a>
+    <ul>
+      <li><a href="#/apresentacoes/apresentacao">Apresentação Ponto de Controle 1</a></li>
+      <li><a href="#/apresentacoes/apresentacao2">Apresentação Ponto de Controle 2</a></li>
+    </ul>
+    </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
