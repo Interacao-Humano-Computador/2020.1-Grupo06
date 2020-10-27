@@ -7,6 +7,16 @@ Esse documento traz um relato que contém os resultados da Avaliação do Storyb
 Essa avaliação tem por objetivo avaliar a usabilidade do site da Prefeitura Municipal de Arco-íris, através dos storyboards construídos com base nas personas e na análise de tarefas feita anteriormente. Esses storyboards trazem uma simulação da interação de usuários com o site em questão.   
 
 
+### 1.Prestação de Contas Públicas 
+
+#### Problemas encontrados 
+
+O principal problema evidenciado por esse storyboard de “como é” é a falta de eficácia do sistema em permitir ao usuário concluir sua tarefa. Isso ocorreu já que o site não foi claro ao mostrar para o usuário onde encontraria a informação que desejava e ainda foi redirecionado para outra página indesejada, falhando totalmente em realizar o que se esperava. 
+ 
+#### Sugestões de Melhoria 
+
+A melhoria que este storyboard mostra é aumentar a eficácia do site, o usuário deve conseguir consultar as informações que deseja da forma rápida, precisa e intuitiva como é mostrado na segunda tirinha (“como deveria ser”). Seguindo assim a meta de usabilidade que diz respeito a eficácia. 
+
 ### 3.Informações sobre o Corona vírus na cidade 
 
 #### Problemas encontrados 
