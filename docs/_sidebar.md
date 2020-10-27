@@ -14,6 +14,7 @@
       <li><a href="#/analise_de_requisitos/metas_usabilidade">Metas de usabilidade</a></li>
       <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
       <li><a href="#/analise_de_requisitos/apresentacao2">Apresentação Ponto de Controle 2</a></li>
+      <li><a href="#/analise_de_requisitos/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
     </ul>
     </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
