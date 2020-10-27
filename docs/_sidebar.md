@@ -16,4 +16,9 @@
       <li><a href="#/analise_de_requisitos/apresentacao2">Apresentação Ponto de Controle 2</a></li>
     </ul>
     </details>
+  - <details><summary><a style="display: inline;">Design, Avaliação e Desenvolvimento</summary></a>
+    <ul>
+      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
+    </ul>
+    </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
