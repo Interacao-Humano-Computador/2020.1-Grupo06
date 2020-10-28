@@ -18,17 +18,13 @@
     <ul>
       <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
       <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
     </ul>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
       <li><a href="#/apresentacoes/apresentacao">Apresentação Ponto de Controle 1</a></li>
       <li><a href="#/apresentacoes/apresentacao2">Apresentação Ponto de Controle 2</a></li>
-    </ul>
-    </details>
-  - <details><summary><a style="display: inline;">Design, Avaliação e Desenvolvimento</summary></a>
-    <ul>
-      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
     </ul>
     </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
