@@ -12,7 +12,11 @@
       <li><a href="#/analise_de_requisitos/principios">Princípios Gerais</a></li>
       <li><a href="#/analise_de_requisitos/metas_usabilidade">Metas de usabilidade</a></li>
       <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
-      <li><a href="#/analise_de_requisitos/storyboard">Storyboard</a></li>
+    </ul>
+    </details>
+    <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
+    <ul>
+      <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
     </ul>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
