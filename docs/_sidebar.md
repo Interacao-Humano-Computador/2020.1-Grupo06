@@ -18,6 +18,7 @@
     <ul>
       <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
       <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
     </ul>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
