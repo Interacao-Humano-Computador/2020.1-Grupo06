@@ -17,6 +17,7 @@
     <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
     <ul>
       <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
     </ul>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
