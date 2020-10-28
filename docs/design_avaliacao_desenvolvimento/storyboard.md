@@ -1,7 +1,9 @@
 # Storyboard
 ## Introdução
 
-Storyboard tem como objetivo trazer uma pré-visualização do ambiente e das pessoas envolvidas em que o sistema vai estar envolvido. Geralmente é feito através de quadrinhos onde a estética fica em segundo plano e auxilia no entendimento da realização da tarefa. 
+ O Storyboard é uma técnica de prototipação de baixa-fidelidade, que  tem como objetivo trazer uma pré-visualização do ambiente e das pessoas envolvidas, utilizando uma sequência de ilustrações, que representam os estados da interface do sistema ao longo do caminho de interação com o usuário do sistema. Sendo utilizado juntamente com possíveis cenários e histórias de usuários, que auxiliam representar de maneira visual o usuário realizando uma tarefa do sistema.
+ 
+ Segundo Mayhew (1999), são quatro parâmetros que definem a fidelidade de um protótipo, detalhamento, grau de funcionalidade, similaridade de interação e refinamento estético. Sendo o storyboards um protótipo de baixa-fidelidade, inserido no ciclo de desenvolvimento de um software, o seu foco não está na parte estética e também não está em representar o produto desenvolvido por completo, e sim em ilustrar um visão geral da interação do cliente sobre diferentes perspectivas, permitindo melhor entendimento e resolução de problemas.
 
 A seguir podemos ver as três atividades selecionadas de forma a se entender em um storyboard. Essa são: visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Coronavírus na cidade. Atividades encontradas como importantes no [perfil de usuário](perfil_de_usuario.md) e explicadas detalhamente em [análise de tarefas](analise_de_tarefas.md).
 
