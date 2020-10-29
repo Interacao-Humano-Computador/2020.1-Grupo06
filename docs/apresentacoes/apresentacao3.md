@@ -1,6 +1,6 @@
 # Apresentação
 
-A seguir, se encontra a apresentação do grupo sobre os tópicos dao Design, Avaliacao e Desenvolvimento:
+A seguir, se encontra a apresentação do grupo sobre os tópicos de Design, Avaliacao e Desenvolvimento:
 - Planejamento da avaliação do Storyboard e Análise de tarefas
 - StoryBoard
 - Avaliação do Storyboard e da Análise de Tarefas 
