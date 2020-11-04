@@ -20,7 +20,7 @@ O planejamento de avaliação do protótipo em papel foi baseado nas informaçõ
 
 
 ### Coleta de dados e interpretação
-Para a coleta e interpretação de dados, é executada a avaliação.
+Para a coleta e interpretação de dados, é executada a avaliação. Antes a avaliação deve ser apresentado ao participante o [termo de consentimento](termo_de_consentimento.md). Caso o participante concorde com o termo, a avaliação deve prosseguir; caso contrário, ele não participará da avaliação.
 * Cada participante deve executar as tarefas propostas, intergindo com o protótipo em papel, mediado pelo avaliador;
 * O avaliador deve anotar os problemas encontrados ao observar o participante interagindo com o protótipo;
 * Após cada experiência de uso, deve ser feita a interpretação dos dados, observando a lista de problemas encontrados;
