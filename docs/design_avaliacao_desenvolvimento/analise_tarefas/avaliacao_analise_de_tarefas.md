@@ -3,14 +3,14 @@
 
 O processo de analisar tarefas em um site trata-se de uma análise de como uma tarefa desejável é realizada pelo usuário. Isso inclui descrição detalhada tanto físicas como mentais, duração, frequência, complexidade, condições ambientais, vestimenta e equipamentos necessários.
 
-A seguir podemos ver três atividades selecionadas para analisar. Essa são: visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Coronavírus na cidade. Atividades encontradas como importantes no [perfil de usuário](./../analise_de_requisitos/perfil_de_usuario.md).
+A seguir podemos ver três atividades selecionadas para analisar. Essa são: visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Coronavírus na cidade. Atividades encontradas como importantes no [perfil de usuário](analise_de_requisitos/perfil_de_usuario.md).
 
-Essa primeira versão foi feita através do método de inspeção, já está tem como objetivo verificar se os usuários estão de acordo ou não com o que foi selecionado. Essas tarefas foram refatoradas com base na [entrevista](entrevista_tarefas.md) feitas com as [personas](./../analise_de_requisitos/personas.md) selecionadas.
+Essa primeira versão foi feita através do método de inspeção, já está tem como objetivo verificar se os usuários estão de acordo ou não com o que foi selecionado. Essas tarefas foram refatoradas com base na [entrevista](design_avaliacao_desenvolvimento/analise_tarefas/entrevista_tarefas.md) feitas com as [personas](analise_de_requisitos/personas.md) selecionadas.
 
 ## Objetivos 
 ### Prestação de contas públicas
 #### Diagrama
-![Diagrama de contas publicas](../img/tarefas/contas_publicas_diagrama.png)
+![Diagrama de contas publicas](./../../img/tarefas/contas_publicas_diagrama.png)
 
 #### Especificação
 
@@ -25,7 +25,7 @@ Essa primeira versão foi feita através do método de inspeção, já está tem
 
 ### Notícias recentes sobre a cidade
 #### Diagrama
-![Diagrama de noticias recentes](../img/tarefas/noticias_recentes_diagrama.png)
+![Diagrama de noticias recentes](./../../img/tarefas/noticias_recentes_diagrama.png)
 
 #### Especificação
 
@@ -40,7 +40,7 @@ Essa primeira versão foi feita através do método de inspeção, já está tem
 
 ### Informações sobre o Coronavírus na cidade
 #### Diagrama
-![Diagrama de noticias recentes](../img/tarefas/covid_diagrama.png)
+![Diagrama de noticias recentes](./../../img/tarefas/covid_diagrama.png)
 
 #### Especificação
 

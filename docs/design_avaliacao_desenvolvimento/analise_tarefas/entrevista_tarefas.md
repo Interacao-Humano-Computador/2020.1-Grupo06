@@ -1,6 +1,6 @@
 # Entrevistas
 ## Introdução
-Este documento tem como objetivo documentar e analisar as entrevistas feitas com as [personas](./../analise_de_requisitos/personas.md) selecionadas e no questionário feito no [planejamento](planejamento_avaliacao_analise_tarefas.md).
+Este documento tem como objetivo documentar e analisar as entrevistas feitas com as [personas](analise_de_requisitos/personas.md) selecionadas e no questionário feito no [planejamento](design_avaliacao_desenvolvimento/analise_tarefas/planejamento_avaliacao_analise_tarefas.md).
 
 ## Objetivos 
 ### Persona 2 - Verônica Antunes do Amaral
