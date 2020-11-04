@@ -14,10 +14,17 @@
       <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
     </ul>
     </details>
-    <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
+  - <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
     <ul>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
+      <li><details><summary><a style="display: inline;">Análise de tarefas</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_analise_tarefas">Planejamento da avaliação</a></li> 
+       <li><a href="#/design_avaliacao_desenvolvimento/entrevista_tarefas">Entrevista</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_analise_de_tarefas">Avaliação</a></li>
+       </ul>
+      </details>
       <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
       <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
     </ul>
     </details>
