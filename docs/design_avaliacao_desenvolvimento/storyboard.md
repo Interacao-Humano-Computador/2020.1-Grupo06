@@ -5,7 +5,9 @@
  
  Segundo Mayhew (1999), são quatro parâmetros que definem a fidelidade de um protótipo, detalhamento, grau de funcionalidade, similaridade de interação e refinamento estético. Sendo o storyboards um protótipo de baixa-fidelidade, inserido no ciclo de desenvolvimento de um software, o seu foco não está na parte estética e também não está em representar o produto desenvolvido por completo, e sim em ilustrar um visão geral da interação do cliente sobre diferentes perspectivas, permitindo melhor entendimento e resolução de problemas.
 
-A seguir podemos ver as três atividades selecionadas de forma a se entender em um storyboard. Essa são: visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Coronavírus na cidade. Atividades encontradas como importantes no [perfil de usuário](perfil_de_usuario.md) e explicadas detalhamente em [análise de tarefas](analise_de_tarefas.md).
+## Metodologia
+
+ Essa representação é uma das ferramentas utilizadas pelos designers com a finalidade de conseguir explorar ideias e problemas do sistema, baseando-se em personadas criadas, para que assim possamos representar de maneira visual as funcionalidades e facilitar no entendimento e elaboração de ideias e soluções. A seguir podemos ver as três atividades selecionadas de forma a se entender em um storyboard. Essa são: visualizar a prestação de contas públicas, as notícias recentes sobre a cidade e as informações sobre o Coronavírus na cidade. Atividades encontradas como importantes no [perfil de usuário](perfil_de_usuario.md) e explicadas detalhamente em [análise de tarefas](analise_de_tarefas.md).
 
 ## Objetivos 
 
@@ -18,7 +20,7 @@ Podemos observar o José Leitão Lemos, nossa primeira persona observando o desc
 #### Como deveria ser
 ![Storyboard 2 de contas publicas](../img/storyboard/storyboard_contas_2.png)
 
-## Avaliação SB01
+## Avaliação Storyboard 1
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQHYu2nkrCXhHtDekPYBw4b_GtgMyWgsq4tE8OVyGhE02BN_gr0mTloIiAhw-FfeZBVXM_-zD1RNN_G/pub?w=960&amp;h=740">
 
@@ -31,7 +33,7 @@ Podemos observar o Roberto Cardoso de Jesus, nossa quarta persona conversando co
 #### Como deveria ser
 ![Storyboard 2 de notícias](../img/storyboard/storyboard_noticias_2.png)
 
-## Avaliação SB02
+## Avaliação Storyboard 2
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRYIU3M80-5xzJbtyDq9NSykLI6yKn_L6kv2Hciefng5x0nrbsSJ2CwNvSFdIExi3N501QUSlE8Uib7/pub?w=938&amp;h=689">
 
@@ -45,9 +47,14 @@ Nesse último storyboard vemos Sara Castro Cavalcanti nossa persona que é estud
 #### Como deveria ser
 ![Storyboard 2 de COVID](../img/storyboard/storyboard_covid_2.png)
 
-## Avaliação SB03
+## Avaliação Storyboard 3
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRZhQ-1T3pSNLyBl-jyazKibwR5ke_ws9qeOyi8VSWPW77Brs8uwOZuOBJKa7_DH0rDIagKBqWV7fPB/pub?w=938&amp;h=689">
+
+## Bibliográfia
+
+BARBOSA e SILVA. Interação Humano-Computador, Capítulo 10 - Métodos de Avaliação de IHC.
+Encontra-se disponível em: https://aprender3.unb.br/pluginfile.php/581392/mod_resource/content/3/Cap.%2010%20Simone_Barbosa_Bruno-Interacao_humano_computador.pdf.
 
 ## Versionamento
 
@@ -57,3 +64,4 @@ Nesse último storyboard vemos Sara Castro Cavalcanti nossa persona que é estud
 |26/10/2020|0.2|Adiciona introdução |Giovanna Borges Bottino|
 |26/10/2020|1.0|Adiciona objetivos |Giovanna Borges Bottino|
 |26/10/2020|1.1|Adiciona informações faltando da avaliação do Storyboard |Luiz Gustavo Dias Paes Pinheiro|
+|26/10/2020|1.2|Adiciona informações faltando no Storyboard |Luiz Gustavo Dias Paes Pinheiro|
