@@ -18,6 +18,10 @@ Podemos observar o José Leitão Lemos, nossa primeira persona observando o desc
 #### Como deveria ser
 ![Storyboard 2 de contas publicas](../img/storyboard/storyboard_contas_2.png)
 
+## Avaliação SB01
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQHYu2nkrCXhHtDekPYBw4b_GtgMyWgsq4tE8OVyGhE02BN_gr0mTloIiAhw-FfeZBVXM_-zD1RNN_G/pub?w=960&amp;h=740">
+
 ### Notícias recentes sobre a cidade
 
 Podemos observar o Roberto Cardoso de Jesus, nossa quarta persona conversando com uma cliente de sua pousada. Ela pergunta o que teria para fazer na cidade. Por isso ele decide ver as notícias recentes da cidade. A tirinha termina com a cliente irritada na primeira situação, pois não há nada para fazer na cidade. Já na segunda situação ela está feliz indo ao teatro reformado.  
@@ -26,6 +30,10 @@ Podemos observar o Roberto Cardoso de Jesus, nossa quarta persona conversando co
 
 #### Como deveria ser
 ![Storyboard 2 de notícias](../img/storyboard/storyboard_noticias_2.png)
+
+## Avaliação SB02
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRYIU3M80-5xzJbtyDq9NSykLI6yKn_L6kv2Hciefng5x0nrbsSJ2CwNvSFdIExi3N501QUSlE8Uib7/pub?w=938&amp;h=689">
 
 ### Informações sobre o Coronavírus na cidade
 
@@ -37,6 +45,9 @@ Nesse último storyboard vemos Sara Castro Cavalcanti nossa persona que é estud
 #### Como deveria ser
 ![Storyboard 2 de COVID](../img/storyboard/storyboard_covid_2.png)
 
+## Avaliação SB03
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRZhQ-1T3pSNLyBl-jyazKibwR5ke_ws9qeOyi8VSWPW77Brs8uwOZuOBJKa7_DH0rDIagKBqWV7fPB/pub?w=938&amp;h=689">
 
 ## Versionamento
 
@@ -45,3 +56,4 @@ Nesse último storyboard vemos Sara Castro Cavalcanti nossa persona que é estud
 |26/10/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
 |26/10/2020|0.2|Adiciona introdução |Giovanna Borges Bottino|
 |26/10/2020|1.0|Adiciona objetivos |Giovanna Borges Bottino|
+|26/10/2020|1.1|Adiciona informações faltando da avaliação do Storyboard |Luiz Gustavo Dias Paes Pinheiro|
