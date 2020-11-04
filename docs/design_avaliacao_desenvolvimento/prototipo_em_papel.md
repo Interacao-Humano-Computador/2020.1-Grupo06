@@ -30,5 +30,5 @@ BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: El
 
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
-|04/10/2020|0.1|Adiciona referencial teórico|Gabrielle Ribeiro Gomes|
+|04/11/2020|0.1|Adiciona referencial teórico|Gabrielle Ribeiro Gomes|
  
