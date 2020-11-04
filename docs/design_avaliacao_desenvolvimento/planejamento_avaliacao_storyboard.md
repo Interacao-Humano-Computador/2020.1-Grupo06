@@ -12,14 +12,25 @@ A avaliação consistirá de 3 usuários, cada usuário é uma persona diferente
 
 ## Personas
 
-### Persona 1- José Leitão Lemos 
+Persona 1- José Leitão Lemos 
 José é um trabalhar de 50 anos, que não confia em políticos, costuma visitar o site da prefeitura para verificar os gastos públicos e notícias da cidades, sendo uma das personas atuante no nosso planejamento, verificando e respondendo questões importantes a respeito do site, principalmente sobre a área de gastos públicos.
 
-### Persona 2- Roberto Cardoso de Jesus
+Persona 2- Roberto Cardoso de Jesus
 Roberto possui 45 anos e é dono de uma pousada em Arco-íris, ele costuma verificar o site para saber notícias referentes a eventos e demais acontecimentos na cidade, de modo que possa se planejar para receber seus hospédes, dentro do planejamento Roberto será uma persona atuante na área de noticias gerais da cidade, ajudando o grupo a responder perguntas importanter e elucidar ideias para o projeto do site da prefeitura de Arco-íris.
 
-### Persona 3- Sara Castro Cavalcanti
+Persona 3- Sara Castro Cavalcanti
 Sara é um jovem q mora em arco-íris e possui 18 anos, dedica-se aos estudos, então costuma visitar o site para saber locais de provas na cidade e sobre o horário e funcionamento de instituições de ensino e biblioteca, em tempos de pandêmia Sara também costuma buscar informações sobre a COVID no site, para que quando sair de casa para algum outro local, possa ir e se proteger com as informações encontradas no site sobre a COVID, sendo importante no planejamento para responder quesoes importantes dessa área no site da prefeitura de Arco-íris.
+
+### Questionário
+
+Com o objetivo de gerar uma maior objetividade da avalição, foi elaborado um questionário com algumas perguntas e ajudaram no planejamento dessa avaliação e trará uma maior objetividade para tal avaliação. Todos os storyboards passarão por esse questionário.
+
+Pergunta | Opções |
+------------ | ---------------------- |
+1.0 O storyboard retrata uma situação que condiz com a realidade?|() Sim () Não () Mudanças precisam ser feitas.
+1.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? |
+2.0. Todo o processo realizado no storyboard e seu fluxograma foi abordado de maneira correta? | () Sim () Não
+2.1. Se algum erro foi percebido, aponte e indique, qual melhoria poderia ser realizada? |
 
 ### Preparação
 Primeiramente, é necessário a elaboração dos storyboards, com base na análise de tarefas já realizada.
