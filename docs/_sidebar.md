@@ -23,9 +23,13 @@
        <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/avaliacao_analise_de_tarefas">Avaliação</a></li>
        </ul>
       </details>
-      <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
+      <li><details><summary><a style="display: inline;">Storyboard</summary></a>      
+      <ul>
+      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/storyboard">Storyboard</a></li>
+      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação Storyboard</a></li>
+      </ul>
+      </details>
     </ul>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>

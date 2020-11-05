@@ -1,4 +1,4 @@
-# Planejamento da avaliação do Storyboard e Análise de tarefas
+# Planejamento da avaliação do Storyboar
 
 ## Objetivo
 Planejar a execução de uma avaliação dos storyboards elaborados a partir da análise de tarefas.
