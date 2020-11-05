@@ -6,11 +6,45 @@ Esse documento traz um relato que contém os resultados da Avaliação do Storyb
 
 Essa avaliação tem por objetivo avaliar a usabilidade do site da Prefeitura Municipal de Arco-íris, através dos storyboards construídos com base nas personas e na análise de tarefas feita anteriormente. Esses storyboards trazem uma simulação da interação de usuários com o site em questão.   
 
-## O método de storyboard 
+## Método 
 
 O storyboard é um tipo de prototipação de baixa fidelidade, que traz uma série de desenhos que mostram como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido.  
+Para avaliar essa primeira versão do storyboard aplicamos o questionário encontrado no planejamento nas seguintes personas: Persona 1- José Leitão Lemos, Persona 2- Roberto Cardoso de Jesus e Persona 3- Sara Castro Cavalcanti.
+A persona 1 ficou com o 1 storyboard, Prestação de Contas Públicas, a persona 2 ficou com o 2 storyboard, Notícias recentes sobre a cidade e a persona 3 ficou com o 3 storyboard, Informações sobre o Corona vírus na cidade.
 
-## Storyboards e Análise de Tarefas 
+## Questionário
+
+### 1.Prestação de Contas Públicas 
+Pergunta | Opções |
+------------ | ---------------------- |
+1.0 O 1º storyboard retrata uma situação que condiz com a realidade?|() Sim () Não (X) Mudanças precisam ser feitas.
+1.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? | Não estaria em um parquinho chovendo
+2.0 O 2º storyboard retrata uma situação que condiz com a realidade?|(X) Sim () Não () Mudanças precisam ser feitas.
+2.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? |
+3.0. Todo o processo realizado no storyboard e seu fluxograma foi abordado de maneira correta? | (X) Sim () Não
+3.1. Se algum erro foi percebido, aponte e indique, qual melhoria poderia ser realizada? |
+
+### 2.Notícias recentes sobre a cidade 
+Pergunta | Opções |
+------------ | ---------------------- |
+1.0 O 1º storyboard retrata uma situação que condiz com a realidade?|() Sim () Não (X) Mudanças precisam ser feitas.
+1.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? | Se não achasse nada no site da prefeitura provavelmente iria procurar em outro site, para não perder um cliente
+2.0 O 2º storyboard retrata uma situação que condiz com a realidade?|(X) Sim () Não () Mudanças precisam ser feitas.
+2.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? |
+3.0. Todo o processo realizado no storyboard e seu fluxograma foi abordado de maneira correta? | (X) Sim () Não
+3.1. Se algum erro foi percebido, aponte e indique, qual melhoria poderia ser realizada? |
+
+### 3.Informações sobre o Corona vírus na cidade 
+Pergunta | Opções |
+------------ | ---------------------- |
+1.0 O 1º storyboard retrata uma situação que condiz com a realidade?|(X) Sim () Não () Mudanças precisam ser feitas.
+1.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? | 
+2.0 O 2º storyboard retrata uma situação que condiz com a realidade?|() Sim () Não (X) Mudanças precisam ser feitas.
+2.1. Qual sugestão de mudanças/melhoria para o storyboard seria apropriado? | Provavelmente não iria ficar em casa, mas iria sair com proteção.
+3.0. Todo o processo realizado no storyboard e seu fluxograma foi abordado de maneira correta? | (X) Sim () Não
+3.1. Se algum erro foi percebido, aponte e indique, qual melhoria poderia ser realizada? |
+
+## Conclusão 
 
 ### 1.Prestação de Contas Públicas 
 
