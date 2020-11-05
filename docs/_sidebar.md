@@ -14,14 +14,29 @@
       <li><a href="#/analise_de_requisitos/guia_de_estilo">Guia de Estilo</a></li>
     </ul>
     </details>
-    <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
+  - <details><summary><a style="display: inline;">Design, avaliação e desenvolvimento</summary></a>
     <ul>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard">Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/avaliacao_storyboard.md">Avaliação Storyboard e Análise de Tarefas</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/prototipo_em_papel.md">Protótipo em Papel</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/planejamento_avaliacao_prototipoPapel.md">Planejamento da avaliação do Protótipo em papel</a></li>
-    </ul>
+      <li><details><summary><a style="display: inline;">Análise de tarefas</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/planejamento_avaliacao_analise_tarefas">Planejamento da avaliação</a></li> 
+       <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/entrevista_tarefas">Entrevista</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/avaliacao_analise_de_tarefas">Avaliação</a></li>
+       </ul>
+      </details>
+      <li><details><summary><a style="display: inline;">Storyboard</summary></a>      
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/storyboard">Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação Storyboard</a></li>
+      </ul>
+      </details>
+      <li><details><summary><a style="display: inline;">Protótipo em papel</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/planejamento_avaliacao_prototipoPapel.md">Planejamento</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/prototipo_em_papel.md">Protótipo em Papel</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/termo_de_consentimento.md">Termo de consentimento</a></li>
+       </ul>
+      </details>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
