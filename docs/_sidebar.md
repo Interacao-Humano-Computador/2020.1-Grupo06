@@ -24,13 +24,17 @@
        </ul>
       </details>
       <li><details><summary><a style="display: inline;">Storyboard</summary></a>      
-      <ul>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/storyboard">Storyboard</a></li>
-      <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação Storyboard</a></li>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/storyboard">Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação Storyboard</a></li>
       </ul>
       </details>
-    </ul>
+      <li><details><summary><a style="display: inline;">Protótipo em papel</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/planejamento_avaliacao_prototipoPapel.md">Planejamento</a></li>
+       </ul>
+      </details>
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
