@@ -35,6 +35,7 @@
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/planejamento_avaliacao_prototipoPapel.md">Planejamento</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/prototipo_em_papel.md">Protótipo em Papel</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/termo_de_consentimento.md">Termo de consentimento</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/entrevista">Entrevista</a></li>
        </ul>
       </details>
     </details>
