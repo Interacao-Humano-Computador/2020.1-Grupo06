@@ -18,16 +18,16 @@
     <ul>
       <li><details><summary><a style="display: inline;">Análise de tarefas</summary></a>
        <ul>
-       <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/planejamento_avaliacao_analise_tarefas">Planejamento da avaliação</a></li> 
+       <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/planejamento_avaliacao_analise_tarefas">Planejamento</a></li> 
        <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/entrevista_tarefas">Entrevista</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/analise_tarefas/avaliacao_analise_de_tarefas">Avaliação</a></li>
        </ul>
       </details>
       <li><details><summary><a style="display: inline;">Storyboard</summary></a>      
        <ul>
-       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento da avaliação do Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao_storyboard">Planejamento</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/storyboard/storyboard">Storyboard</a></li>
-       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação Storyboard</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/storyboard/avaliacao_storyboard.md">Avaliação</a></li>
       </ul>
       </details>
       <li><details><summary><a style="display: inline;">Protótipo em papel</summary></a>
