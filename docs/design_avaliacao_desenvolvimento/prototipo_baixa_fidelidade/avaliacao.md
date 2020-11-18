@@ -35,6 +35,22 @@ Sabendo dessas operações, junto aos usuários fizemos uma tabela de problema d
 ### Visualizar as notícias recentes sobre a cidade
 Nossa segunda participante tem 51 anos e é aposentada. Possui pouca experiência em tecnologia. Ela tem dois filhos muito novos, um de 14 e outro de 8, por isso para ela é importante saber o que fazer na cidade com ou sem seus filhos.
 
+| Operações | Resultado |
+|------|------|
+| Obteve sucesso? | Sim |
+| Utilizou o ícone no menu? | Sim |
+| Utilizou a pesquisa? | Não |
+| Utilizou outro meio? | Não |
+| Qual? | |
+
+Sabendo dessas operações, junto aos usuários fizemos uma tabela de problema descrição para cada tarefa. 
+
+| Problema | Descrição | Correção |
+|------|------|------|
+| Ordem do menu | A ordem dos botões está desalinhada e pode ser melhorada | Alterar ordem de butões para: Noticias, Cidadão, Empresa, Transparência e COVID |
+| Icones em noticias | Falta icones nas noticias apresentadas | Adicionar icones para cada tipo de noticias |
+| Layout noticias | É preciso ajustar para que quando clicar em uma noticias abrir em uma nova página, assim fica menos poluido | Adicionar uma pagina apenas para a noticia | 
+
 ### Visualizar as informações sobre o Coronavírus na cidade
 
 Nosso terceiro participante tem 48 anos e é um empreendedor. Possui experiência média em tecnologia. Por manter um empreendimento, para ele, é importante saber como é a situação da cidade e principalmente sobre o Coronavírus. 
@@ -64,13 +80,16 @@ Após o relato dos resultados chegaremos a uma conclusão. Apesar da informaçã
 | 1 | Filtro | Não há como filtrar as contas que aparecem | Aplicar um filtro por data, categoria e mandato |
 | 2 | Ordenação | Não há como ordenar as contas que aparecem | Aplicar uma ordenação por data e categoria | 
 | 3 | Busca | Não há como fazer pesquisa dentro das contas | Aplicar uma barra de busca |
-| 4 | Notícias de COVID-19 | Não há a categoria de COVID-19 nas notícias | Adicionar a categoria COVID -19 |
-| 5 | Ícone COVID-19 no menu | O usuário não pensou que o ícone levaria a outra sessão | Modificar o nome para infomações COVID-19 |
-| 6 | Ícone Contato no menu | Não há uma sessão apenas para entrar em contato no menu | Adicionar a sessão contato no menu |
-
+| 4 | Ordem do menu | A ordem dos botões está desalinhada e pode ser melhorada | Alterar ordem de butões para: Noticias, Cidadão, Empresa, Transparência e COVID |
+| 5 | Icones em noticias | Falta icones nas noticias apresentadas | Adicionar icones para cada tipo de noticias |
+| 6 | Notícias de COVID-19 | Não há a categoria de COVID-19 nas notícias | Adicionar a categoria COVID -19 |
+| 7 | Ícone COVID-19 no menu | O usuário não pensou que o ícone levaria a outra sessão | Modificar o nome para infomações COVID-19 |
+| 8 | Ícone Contato no menu | Não há uma sessão apenas para entrar em contato no menu | Adicionar a sessão contato no menu |
+| 9 | Layout noticias | É preciso ajustar para que quando clicar em uma noticias abrir em uma nova página, assim fica menos poluido | Adicionar uma pagina apenas para a noticia |
 
 ## Versionamento
 
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |09/11/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
+|18/11/2020|1.0|Adiciona avaliação da 2 entrevista |Giovanna Borges Bottino|
