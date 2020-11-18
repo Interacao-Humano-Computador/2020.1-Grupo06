@@ -12,7 +12,7 @@ Nossa primeira participante tem 50 anos e é servidora pública. Possui experiê
 ### Visualizar as notícias recentes sobre a cidade
 Nossa segunda participante tem 51 anos e é aposentada. Possui pouca experiência em tecnologia. Ela tem dois filhos muito novos, um de 14 e outro de 8, por isso para ela é importante saber o que fazer na cidade com ou sem seus filhos.
 
-[![](https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_300x300.jpg)](https://youtu.be/3REhBHyr7pE)
+[![](https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_300x300.jpg)](https://youtu.be/o1QJWalNq-s)
 
 ### Visualizar as informações sobre o Coronavírus na cidade
 
@@ -25,3 +25,4 @@ Nosso terceiro participante tem 48 anos e é um empreendedor. Possui experiênci
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
 |09/11/2020|0.1|Abertura do documento |Giovanna Borges Bottino|
+|18/11/2020|1.0|Atualiza link da 2 entrevista |Giovanna Borges Bottino|
