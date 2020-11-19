@@ -39,7 +39,7 @@
       </details>
       <li><details><summary><a style="display: inline;">Protótipo de alta fidelidade</summary></a>
        <ul>
-       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/planejamento_avaliacao_prototipo_baixa_fidelidade.md">Planejamento</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/planejamento_avaliacao_prototipoAltaFidelidade.md">Planejamento</a></li>
        </ul>
       </details>  
     </details>
