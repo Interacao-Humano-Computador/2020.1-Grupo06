@@ -37,6 +37,11 @@
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/termo_de_consentimento.md">Termo de consentimento</a></li>
        </ul>
       </details>
+      <li><details><summary><a style="display: inline;">Protótipo de alta fidelidade</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/planejamento_avaliacao_prototipoAltaFidelidade.md">Planejamento</a></li>
+       </ul>
+      </details>  
     </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
