@@ -52,6 +52,7 @@
       <li><a href="#/apresentacoes/apresentacao2">Apresentação Ponto de Controle 2</a></li>
       <li><a href="#/apresentacoes/apresentacao3">Apresentação Ponto de Controle 3</a></li>
       <li><a href="#/apresentacoes/apresentacao4">Apresentação Ponto de Controle 4</a></li>
+      <li><a href="#/apresentacoes/apresentacao5">Apresentação Ponto de Controle 5</a></li>
     </ul>
     </details>
   - [Reuniões](/reunioes/indice_reunioes.md)
