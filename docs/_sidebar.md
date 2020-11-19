@@ -33,10 +33,15 @@
       <li><details><summary><a style="display: inline;">Protótipo em papel</summary></a>
        <ul>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/planejamento_avaliacao_prototipoPapel.md">Planejamento</a></li>
-       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/prototipo_em_papel.md">Protótipo em Papel</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/prototipo_em_papel.md">Protótipo</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/termo_de_consentimento.md">Termo de consentimento</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/entrevista">Entrevista</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/avaliacao">Avaliacao</a></li>
+       </ul>
+      </details>
+      <li><details><summary><a style="display: inline;">Protótipo de alta fidelidade</summary></a>
+       <ul>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/prototipo_alta.md">Protótipo</a></li>
        </ul>
       </details>
     </details>
