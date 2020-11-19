@@ -1,4 +1,4 @@
-# Avaliação do Storyboard e da Análise de Tarefas 
+# Avaliação do Storyboard
 
 Esse documento traz um relato que contém os resultados da Avaliação do Storyboard e da Análise de Tarefas.  
 
