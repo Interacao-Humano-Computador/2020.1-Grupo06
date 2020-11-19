@@ -8,13 +8,11 @@ Esse protótipo foi feito baseado no protótipo em papel, na avaliação do prot
 Como foi baseado apenas nas tarefas escolhidas, existem os fluxos para essas tarefas, qualquer outra interação foi ignorada. 
 
 ## Prototipo
-O protótipo de alta fidelidade pode ser observado nesse [link](https://www.figma.com/proto/R4YPnOENnAnNuErv6HygWL/Untitled?node-id=8%3A2&scaling=scale-down-width). Ou através do seguinte frame:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/R4YPnOENnAnNuErv6HygWL/Untitled?node-id=8%3A2&scaling=scale-down-width" allowfullscreen></iframe>
-
+O protótipo de alta fidelidade pode ser observado nesse [link](https://www.figma.com/proto/R4YPnOENnAnNuErv6HygWL/Untitled?node-id=8%3A2&scaling=scale-down-width). 
 
 ## Versionamento
 
 | Data | Versão | Descrição | Autor |
 |------|------|------|------|
-|09/11/2020|0.1|Abertura do documento|Giovanna Borges Bottino|
+|19/11/2020|0.1|Abertura do documento|Giovanna Borges Bottino|
+|19/11/2020|0.2|Remove Frame|Giovanna Borges Bottino|
