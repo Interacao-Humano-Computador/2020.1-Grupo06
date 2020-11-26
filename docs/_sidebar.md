@@ -43,6 +43,7 @@
        <ul>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/planejamento_avaliacao_prototipoAltaFidelidade.md">Planejamento</a></li>
        <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/prototipo_alta.md">Protótipo</a></li>
+       <li><a href="#/design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/termo_de_consentimento2.md">Termo de consentimento</a></li>
        </ul>
       </details>  
     </details>
