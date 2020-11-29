@@ -16,3 +16,4 @@ O protótipo de alta fidelidade pode ser observado nesse [link](https://www.figm
 |------|------|------|------|
 |19/11/2020|0.1|Abertura do documento|Giovanna Borges Bottino|
 |19/11/2020|0.2|Remove Frame|Giovanna Borges Bottino|
+|19/11/2020|1.0|Adiciona Protótipo de alta fidelidade|Aline Lermen, Gabrielle Ribeiro, Giovanna Bottino, Gustavo Afonso, Luiz Gustavo|
