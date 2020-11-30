@@ -21,3 +21,6 @@ A técnica utilizada para a verificação da Análise de Tarefas foi a de leitur
 | Cada diagrama possui uma tabela de especificação? | Sim | Sim | Sim | 
 | Há alguma forma de visualização das tarefas? | Sim | Sim | Sim |
 
+## Conclusão 
+
+O arquivo está de acordo com o pré-estabelecido com a equipe e disciplina. Todas as tarefas também se encontram documentadas corretamente.
