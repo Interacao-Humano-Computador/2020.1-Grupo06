@@ -14,3 +14,6 @@ A técnica utilizada para a verificação dos Princípios Gerais de Projeto foi 
 | O arquivo está livres de erros ortográficos ou gramaticais? | Sim |
 | Os Princípios Gerais de Projeto estão descritos de forma clara? | Sim |
 | Os Princípios Gerias de Projeto estão de acordo com o projeto? | Sim |
+
+## Conclusão
+O arquivos está de acordo com o pré-estabelecido com o grupo e informações da disciplina.
