@@ -47,13 +47,13 @@
        </ul>
       </details>  
     </details>
-  - <details><summary><a style="display: inline;">Verificações</summary></a>
+  - <details><summary><a style="display: inline;">Verificações dos Artefatos</summary></a>
     <ul>
       <li><a href="#/verificacao/questionario.md">Questionário</a></li>
       <li><a href="">Perfil de Usuário</a></li>
       <li><a href="">Personas</a></li>
       <li><a href="#/verificacao/principios.md">Princípios e Diretrizes do Projeto</a></li>
-      <li><a href="">Metas de Usabilidade</a></li>
+      <li><a href="#/verificacao/metas_usabilidade.md">Metas de Usabilidade</a></li>
       <li><a href="">Guia de Estilo</a></li>
       <li><a href="#/verificacao/tarefas.md">Análise de Tarefas</a></li>
       <li><a href="#/verificacao/planejamento_avaliacao_tarefas.md">Planejamento e Avaliação da Análise de Tarefas</a></li>
