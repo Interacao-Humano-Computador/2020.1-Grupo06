@@ -20,6 +20,10 @@ Entrevista com participante de 52 anos, bancário, que possui experiência alta 
 Entrevista com participante de 55 anos, aposentado que possui baixa experiência em tecnologia.  
 [![](https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_300x300.jpg)](https://www.youtube.com/watch?v=6qpc0we5IRI&ab_channel=gustavoafonso)
 
+### Entrevista 4
+Entrevista com participante de 40 anos, comerciante que possui baixa experiência em tecnologia.  
+[![](https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_300x300.jpg)](https://youtu.be/iHmHBzDM-QE)
+
 
 ## Versionamento
 
@@ -28,3 +32,4 @@ Entrevista com participante de 55 anos, aposentado que possui baixa experiência
 |27/11/2020|0.1| Abertura do documento | Aline Helena Lermen |
 |27/11/2020|0.2| Adição das entrevistas 1 e 2 | Aline Helena Lermen |
 |29/11/2020|0.3| Adição da entrevista 3 | Gustavo Afonso Pires Severo |
+|30/11/2020|1.0| Adição da entrevista 4 | Gustavo Afonso Pires Severo |
