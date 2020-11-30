@@ -12,12 +12,12 @@ A técnica utilizada para a verificação da Análise de Tarefas foi a de leitur
 
 ## Verificação
 
-| Check-list | Resposta |
-|---|---|
-| O arquivo está livres de erros ortográficos ou gramaticais? | Sim |
-| As Análises de Tarefas estão descritas de forma clara? | Sim | 
-| Existem uma introdução à análise de tarefas? | Sim | 
-| Cada tarefa possui um diagrama? | Sim |
-| Cada diagrama possui uma tabela de especificação? | Sim | 
-| Há alguma forma de visualização das tarefas? | Sim |
+| Check-list | Prestação de contas públicas | Notícias recentes sobre a cidade | Informações sobre o Coronavírus na cidade |
+|---|---|---|---|
+| O arquivo está livres de erros ortográficos ou gramaticais? | Sim | Sim | Sim |
+| As Análises de Tarefas estão descritas de forma clara? | Sim |  Sim | Sim |
+| Existem uma introdução à análise de tarefas? | Sim |  Sim | Sim |
+| Cada tarefa possui um diagrama? | Sim | Sim | Sim |
+| Cada diagrama possui uma tabela de especificação? | Sim | Sim | Sim | 
+| Há alguma forma de visualização das tarefas? | Sim | Sim | Sim |
 
