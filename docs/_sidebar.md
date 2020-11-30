@@ -47,6 +47,24 @@
        </ul>
       </details>  
     </details>
+  - <details><summary><a style="display: inline;">Verificações</summary></a>
+    <ul>
+      <li><a href="#/verificacao/questionario.md">Questionário</a></li>
+      <li><a href="">Perfil de Usuário</a></li>
+      <li><a href="">Personas</a></li>
+      <li><a href="#/verificacao/principios.md">Princípios e Diretrizes do Projeto</a></li>
+      <li><a href="">Metas de Usabilidade</a></li>
+      <li><a href="">Guia de Estilo</a></li>
+      <li><a href="#/verificacao/tarefas.md">Análise de Tarefas</a></li>
+      <li><a href="#/verificacao/planejamento_avaliacao_tarefas.md">Planejamento e Avaliação da Análise de Tarefas</a></li>
+      <li><a href="">Storyboards</a></li>
+      <li><a href="">Planejamento e Avaliação dos Storyboards</a></li>
+      <li><a href="">Protótipo de Papel</a></li>
+      <li><a href="">Planejameno e Avaliação do Protótipo de Papel</a></li>
+      <li><a href="">Protótipo de Alta-Fidelidade</a></li>
+      <li><a href="">Planejamento e Avaliação do Protótipo de Alta-fidelidade</a></li>
+    </ul>
+    </details>
   - <details><summary><a style="display: inline;">Apresentações</summary></a>
     <ul>
       <li><a href="#/apresentacoes/apresentacao">Apresentação Ponto de Controle 1</a></li>
