@@ -6,7 +6,7 @@
 ## Check-list
 1. O nome dos documentos condizem com a tarefa proposta?
 2. Há erro/erros de ortografia e formatação nos documentos?
-3. O Planejamento e a Avaliação dos Storyboards estão construídos de forma clara e compreensiva?
+3. O Planejamento e a Avaliação dos protótipos de alta-fidelidade estão construídos de forma clara e compreensiva?
 4. Os objetivos da avaliação estão explícitos?
 5. O relato dos resultados da avaliação foi condizente com a realidade?
 6. As questões práticas estão bem especificadas?
