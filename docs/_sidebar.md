@@ -51,15 +51,15 @@
     <ul>
       <li><a href="#/verificacao/questionario.md">Questionário</a></li>
       <li><a href="#/verificacao/perfil_de_usuario.md">Perfil de Usuário</a></li>
-      <li><a href="">Personas</a></li>
+      <li><a href="#/verificacao/personas.md">Personas</a></li>
       <li><a href="#/verificacao/principios.md">Princípios e Diretrizes do Projeto</a></li>
       <li><a href="#/verificacao/metas_usabilidade.md">Metas de Usabilidade</a></li>
-      <li><a href="">Guia de Estilo</a></li>
+      <li><a href="#/verificacao/guia_de_estilo.md">Guia de Estilo</a></li>
       <li><a href="#/verificacao/tarefas.md">Análise de Tarefas</a></li>
       <li><a href="#/verificacao/planejamento_avaliacao_tarefas.md">Planejamento e Avaliação da Análise de Tarefas</a></li>
       <li><a href="#/verificacao/storyboards.md">Storyboards</a></li>
       <li><a href="#/verificacao/avaliacao_planejamento_storyboards.md">Planejamento e Avaliação dos Storyboards</a></li>
-      <li><a href="">Protótipo de Papel</a></li>
+      <li><a href="prototipo_de_papel.md">Protótipo de Papel</a></li>
       <li><a href="">Planejameno e Avaliação do Protótipo de Papel</a></li>
       <li><a href="">Protótipo de Alta-Fidelidade</a></li>
       <li><a href="">Planejamento e Avaliação do Protótipo de Alta-fidelidade</a></li>
