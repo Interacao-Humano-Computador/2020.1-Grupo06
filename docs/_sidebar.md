@@ -58,7 +58,7 @@
       <li><a href="#/verificacao/tarefas.md">Análise de Tarefas</a></li>
       <li><a href="#/verificacao/planejamento_avaliacao_tarefas.md">Planejamento e Avaliação da Análise de Tarefas</a></li>
       <li><a href="#/verificacao/storyboards.md">Storyboards</a></li>
-      <li><a href="">Planejamento e Avaliação dos Storyboards</a></li>
+      <li><a href="#/verificacao/avaliacao_planejamento_storyboards.md">Planejamento e Avaliação dos Storyboards</a></li>
       <li><a href="">Protótipo de Papel</a></li>
       <li><a href="">Planejameno e Avaliação do Protótipo de Papel</a></li>
       <li><a href="">Protótipo de Alta-Fidelidade</a></li>
