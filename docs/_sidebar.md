@@ -50,7 +50,7 @@
   - <details><summary><a style="display: inline;">Verificações dos Artefatos</summary></a>
     <ul>
       <li><a href="#/verificacao/questionario.md">Questionário</a></li>
-      <li><a href="">Perfil de Usuário</a></li>
+      <li><a href="#/verificacao/perfil_de_usuario.md">Perfil de Usuário</a></li>
       <li><a href="">Personas</a></li>
       <li><a href="#/verificacao/principios.md">Princípios e Diretrizes do Projeto</a></li>
       <li><a href="#/verificacao/metas_usabilidade.md">Metas de Usabilidade</a></li>
