@@ -9,7 +9,7 @@
 3. O Planejamento e elaboração dos protótipos estão construídos de forma clara e compreensiva?
 4. Os objetivos da avaliação estão explícitos?
 5. O relato dos resultados da avaliação foi condizente com a realidade?
-6. As questões práticas estão bem especificadas ?
+6. As questões práticas estão bem especificadas?
 
 ## Respostas
 |Check-list|Resposta|
